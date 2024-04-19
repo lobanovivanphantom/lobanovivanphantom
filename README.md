@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend-Developer
 -----------------
 
-* 🌍  I'm based in Novosibirsk
-* ✉️  You can contact me at [lobanov-ivan@list.ru](mailto:lobanov-ivan@list.ru)
+* 🌍  Мое местоположение: Новосибирск
+* ✉️  Ты можешь связать со мной [lobanov-ivan@list.ru](mailto:lobanov-ivan@list.ru) [https://t.me/IvanPhantom](mailto:https://t.me/IvanPhantom)
 * 🧠  I'm learning CPP
 * 🤝  I'm open to collaborating on CPP
 * ⚡  Spider
