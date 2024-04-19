@@ -5,7 +5,7 @@ Backend-Developer
 -----------------
 
 * 🌍  Мое местоположение: Новосибирск
-* ✉️  Ты можешь связать со мной [lobanov-ivan@list.ru](mailto:lobanov-ivan@list.ru) [https://t.me/IvanPhantom](mailto:https://t.me/IvanPhantom)
+* ✉️  Ты можешь связать со мной [lobanov-ivan@list.ru](mailto:lobanov-ivan@list.ru) [https://t.me/IvanPhantom](https://t.me/IvanPhantom)
 * 🧠  I'm learning CPP
 * 🤝  I'm open to collaborating on CPP
 * ⚡  Spider
